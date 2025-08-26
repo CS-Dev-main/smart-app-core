@@ -1,2 +1,2 @@
-# CashShield-app-core
+# smart-app-core
 CashShield's backup warehouse
